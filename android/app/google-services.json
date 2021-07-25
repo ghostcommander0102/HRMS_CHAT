@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59400956304",
+    "firebase_url": "https://hrms-f25c6.firebaseio.com",
+    "project_id": "hrms-f25c6",
+    "storage_bucket": "hrms-f25c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59400956304:android:7be4637e313a5ed4f82b15",
+        "android_client_info": {
+          "package_name": "com.hrms_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59400956304-fjn1iuc3962b1anlcp3i85os85gr2g6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrms_chat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "59400956304-nsoeqq3papbooj8h6rjk2hficigibamt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMlAALKgCILOPqQLii4sBy4RySu4P5QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59400956304-nsoeqq3papbooj8h6rjk2hficigibamt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
